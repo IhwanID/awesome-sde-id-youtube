@@ -88,6 +88,7 @@
 + [Laravel Youtube](https://www.youtube.com/channel/UCT_1pPaTXKEl4ZpJQuxaRzg)
 + [Lazday Indonesia](https://www.youtube.com/channel/UCnJFFAhsxC1DWrJqySPPAIw)
 + [LeenuksID](https://www.youtube.com/channel/UCUvXjaQRdHcptVbGoQ_Dkkg)
++ [LuckyTrue Development](https://www.youtube.com/channel/UCoQhnhZonZnLbvdVA6GqNKQ)
 
 ## M
 
